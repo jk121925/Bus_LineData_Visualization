@@ -4,14 +4,16 @@
 - **Project Name : Seoul_BusStop_map**
 - This project is for generating Seoul Bus stop map using pydeck. To get a quick intuition, see the images below .
 
+## 2. Sample IMG
+<img src = "https://raw.githubusercontent.com/jk121925/jk_coding_study/master/Sample%20image/sample_img.jpg"  width = "350"> 
 
- | <img src = "https://raw.githubusercontent.com/jk121925/jk_coding_study/master/Sample%20image/sample_img.jpg"  width = "350"> |
-## 2. Dependency
+
+## 3. Dependency
 - **Python** : ver. 3.7.6
 - **Pydeck** : ver. 0.3.0
 - **pandas** : ver. 1.0.1
 
-## 3. Usage  
+## 4. Usage  
 
 - **Set MapboxAccessToken**
   ```
@@ -32,5 +34,5 @@
   ```
   
 
-## 4. Version
+## 5. Version
 - Current up-to-date version : v1.0.0
