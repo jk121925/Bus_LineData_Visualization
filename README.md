@@ -14,7 +14,7 @@
 - **Set MapboxAccessToken**
   ```
     To see the base map, you need a Mapbox access token. 
-    Go https://www.mapbox.com/ and make account.
+    Go (https://www.mapbox.com/) and make account.
     Add to environment variable like "MAPBOX_API_KEY = "your mapbox api token (start from pk...)"
   ```
 - **Execute Program**  
