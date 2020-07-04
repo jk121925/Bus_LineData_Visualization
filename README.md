@@ -4,6 +4,8 @@
 - **Project Name : Seoul_BusStop_map**
 - This project is for generating Seoul Bus stop map using pydeck. To get a quick intuition, see the images below .
 
+
+ <img src = "https://raw.githubusercontent.com/jk121925/jk_coding_study/master/Sample%20image/sample_img.jpg>
 ## 2. Dependency
 - **Python** : ver. 3.7.6
 - **Pydeck** : ver. 0.3.0
