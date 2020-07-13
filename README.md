@@ -22,7 +22,7 @@
     Add to environment variable like "MAPBOX_API_KEY = "your mapbox api token (start from pk...)"
   ```
 - **Sample Data img**
-<img src = "https://github.com/jk121925/Bus_LineData_Visualization/blob/master/Sample_image/sample_data_img.jpg" width ="500">
+<img src = "https://raw.githubusercontent.com/jk121925/Bus_LineData_Visualization/blob/master/Sample_image/sample_data_img.jpg" width ="500">
 
 - **Execute Program**  
   ```Bash
