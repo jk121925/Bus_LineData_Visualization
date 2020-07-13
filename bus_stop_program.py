@@ -30,7 +30,7 @@ import pydeck as pdk
 import re
 
 #bus stop location data
-df_coord = pd.read_csv('bus_coord.csv',sep=",", encoding='cp949')
+df_coord = pd.read_csv('./csv_data/bus_coord.csv',sep=",", encoding='cp949')
 df_coord
 lon = df_coord['X좌표']
 lat = df_coord['Y좌표']
@@ -43,7 +43,7 @@ for i in range(len(lon)):
 df_coord['coordinates'] = templist
 
 #bustop number & The bus number
-df_bus_line = pd.read_csv('bus_line.csv',sep=',', encoding='cp949')
+df_bus_line = pd.read_csv('./csv_data/bus_line.csv',sep=',', encoding='cp949')
 df_bus_line.head()
 df_bus_line_0 = df_bus_line[['노선번호','버스정류장ARS번호']]
 df_bus_line_0.columns=['노선번호','정류소번호']
